@@ -10,6 +10,7 @@ namespace Bai4
     {
         static void Main(string[] args)
         {
+            //Le Phu Qui
             Console.Write("Ho Ten : ");
             string hoTen = Console.ReadLine();
             Console.Write("Lop : ");
