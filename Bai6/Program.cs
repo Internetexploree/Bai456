@@ -10,6 +10,7 @@ namespace Bai6
     {
         static void Main(string[] args)
         {
+            //Le Phu Qui
             Console.Write("Nhap ngay thang: ");
             DateTime date = DateTime.Parse(Console.ReadLine());
 
