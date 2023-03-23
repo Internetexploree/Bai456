@@ -10,7 +10,7 @@ namespace Bai5
 {
     internal class Program
     {
-        
+        //Le Phu Qui
             struct ThongTinNhanVien
         { 
             
